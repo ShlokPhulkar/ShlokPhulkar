@@ -1,3 +1,3 @@
 - 👋 Hi, I’m @ShlokPhulkar Student with industrious and systematic approach to learning information with a sound knowledge of Branch”.
 - 👀 I’m interested in Data Analytics and Buisness Analytics.
-- 🌱 I’m currently studying Python,SQL,Stats,ML,DL,Cloud,NPL and computer vision.
+- 🌱 I’m currently studying Python,SQL,Stats,ML,DL,Cloud,NPL,Computer vision and Power BI
